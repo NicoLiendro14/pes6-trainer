@@ -2,6 +2,11 @@
 
 PES6 Trainer is a small Python program that allows you to add goals during a Pro Evolution Soccer 6 (PES6) match. This program is designed to facilitate tracking of goals scored by the home and away teams during a match, providing a simple and easy-to-use interface.
 
+![](https://im.ezgif.com/tmp/ezgif-1-1ae276563e.gif)
+![](https://i.imgur.com/Ie7oav8.png) 
+
+
+
 ## Features
 
 - Add goals for the home team.
